@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-I developed a data‑driven shipment analytics dashboard that provides a complete overview of product performance, regional sales, and team profitability. The project integrates multiple visualization techniques to transform raw shipment data into actionable business insights.
+# Chocolate Shipment Data Analysis ( Interactive Dashboard using PowerBI )
+## Project Objective
+The goal of this project is to develop a comprehensive shipment analytics dashboard that transforms raw business data into actionable insights. It empowers stakeholders to monitor product performance, track regional sales, and evaluate team profitability for better decision‑making.
