@@ -41,5 +41,15 @@ The goal of this project is to develop a comprehensive shipment analytics dashbo
 ## Dashboard
 <img width="1235" height="708" alt="Screenshot 2026-06-06 094730" src="https://github.com/user-attachments/assets/928b700f-6019-4ced-9e56-fd0aa5bffc71" />Dashboard</a>
 
+## Project Insights
+- Identified the overall **sales amount, profit, and shipment volume** using key performance indicators.
+- Analyzed **country-wise sales and profit** to understand the contribution of different markets.
+- Identified **top-performing chocolate products** based on total sales amount.
+- Compared **salesperson and team performance** using sales, boxes shipped, and profit percentage.
+- Analyzed **product-wise profitability and shipment trends** to identify areas of strong and lower performance.
+
+## Final Conclusion
+Chocolate Shipment Analysis provides an interactive view of shipment, sales, and profitability performance using Power BI. The dashboard combines KPIs, country-wise analysis, shipment distribution, product performance, team profitability, and salesperson analysis into a single reporting interface. It helps users quickly understand business performance, compare different dimensions, and identify products, regions, and sales representatives that require further analysis. Overall, the project demonstrates practical skills in Power BI, Power Query, DAX, data visualization, KPI development, and dashboard design.
+
 
 
