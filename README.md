@@ -23,3 +23,7 @@ The goal of this project is to develop a comprehensive shipment analytics dashbo
 - Which products have relatively low or negative profit?
 - What are the top 6 products based on their sales performance?
 - How do total sales and profit compare across different countries?
+
+## Dashboard
+<img width="1235" height="708" alt="Screenshot 2026-06-06 094730" src="https://github.com/user-attachments/assets/928b700f-6019-4ced-9e56-fd0aa5bffc71" />Dashboard</a>
+
