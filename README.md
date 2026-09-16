@@ -39,7 +39,7 @@ The goal of this project is to develop a comprehensive shipment analytics dashbo
 - Designed an interactive Power BI dashboard with filters and date selection to provide clear business insights.
 
 ## Dashboard
-<img width="1235" height="708" alt="Screenshot 2026-06-06 094730" src="https://github.com/user-attachments/assets/928b700f-6019-4ced-9e56-fd0aa5bffc71" />Dashboard</a>
+<img width="1235" height="708" alt="Screenshot 2026-06-06 094730" src="https://github.com/user-attachments/assets/928b700f-6019-4ced-9e56-fd0aa5bffc71">
 
 ## Project Insights
 - Identified the overall **sales amount, profit, and shipment volume** using key performance indicators.
